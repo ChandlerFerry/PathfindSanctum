@@ -117,6 +117,12 @@ public class ProfileContent
                 ["Veiled Scarabs_Now"] = 261,
                 ["Veiled Scarabs_EndOfFloor"] = 261,
                 ["Veiled Scarabs_EndOfSanctum"] = 698,
+                ["Fracturing Orbs_Now"] = 12000,
+                ["Fracturing Orbs_EndOfFloor"] = 12000,
+                ["Fracturing Orbs_EndOfSanctum"] = 12000,
+                ["Volatile Vaal Orbs_Now"] = 11000,
+                ["Volatile Vaal Orbs_EndOfFloor"] = 11000,
+                ["Volatile Vaal Orbs_EndOfSanctum"] = 11000,
             },
             FightRoomWeights = new()
             {
